@@ -12,7 +12,7 @@
 ### Github Statistics
 <p align="left">
 <img  src="https://github-readme-stats.vercel.app/api?username=sonerdm&show_icons=true&theme=radical" alt="sonerdm" width="480" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonerdm&layout=compact&hide=html&theme=radical" width="480" height="180" alt="sonerdm"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonerdm&layout=compact&hide=html&theme=radical" height="180" alt="sonerdm"/>
 </p>
 
 ### 📫 How to reach me:
