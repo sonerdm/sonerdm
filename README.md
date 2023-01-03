@@ -1,7 +1,7 @@
 ### Hi there, I'm Soner 👋 ![](https://komarev.com/ghpvc/?username=sonerdm&color=orange&&style=flat)
 
 
-- 🔭 I’m currently working as an integration manager at Insider
+- 🔭 DevOps Engineer at Insider
 - 🌱 I’m currently learning DevOps related stuff
 - ⚡ I like creating pipelines  
 
